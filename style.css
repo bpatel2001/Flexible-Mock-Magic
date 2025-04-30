@@ -85,12 +85,33 @@ footer {
     justify-content: space-between;
     
     box-sizing: border-box;
-    
 }
 
 .nav-links {
     display: flex;
     flex-direction: row;
     align-items: center;
+
+
+.main-content {
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-main {
+    display: flex;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
