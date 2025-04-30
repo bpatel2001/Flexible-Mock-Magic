@@ -10,7 +10,7 @@ Use your knowledge of flexboxes to complete the following design tasks. Some wil
 
 ### Footer
 
-Create a ruleset for the `<footer>` element to match the image below. The images should be evenly spaced in a single row.
+Create a ruleset for the `<footer>` element to match the image below. The images should be evenly spaced in a single row.       
 
 ![](./Exemplar/Footer.png)
 

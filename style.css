@@ -46,7 +46,7 @@
 .sidebar {
     background-color: #242457;
     color: white;
-    padding: 3rem;
+    padding: 3rem; 
 }
 
 footer img {
@@ -78,6 +78,20 @@ footer {
 }
 
 /* CODE YOUR FLEXBOXES HERE */
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    box-sizing: border-box;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
 
 .main-content {
     width: 80vw;
